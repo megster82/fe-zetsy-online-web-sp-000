@@ -84,7 +84,6 @@ header a:hover {
 
 
 footer  {
-  clear: both;
-  float: right;
+  text-align: right;
 }
 
