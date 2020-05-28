@@ -82,8 +82,8 @@ header a:hover {
   padding: 1px;
 }
 
-
 footer  {
+  clear: both;
   text-align: right;
 }
 
