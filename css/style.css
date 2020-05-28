@@ -51,6 +51,16 @@ header a  {
   text-decoration: none;
 }
 
+header a  {
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+#img  {
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
 footer  {
   clear: both;
   float: right;
