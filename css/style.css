@@ -34,7 +34,10 @@ h2  {
   color: rgb(111,127,122);
 }
 
-
+padding {
+  color: #555;
+  
+}
 
 footer  {
   clear: both;
