@@ -51,7 +51,7 @@ header a  {
   text-decoration: none;
 }
 
-header a hover {
+header a:hover {
   color: rgb(111,127,122);
 }
 
@@ -64,7 +64,7 @@ header a hover {
   text-decoration: none;
 }
 
-#featured a hover {
+#featured a:hover {
   text-decoration: underline;
 }
 
@@ -77,6 +77,10 @@ header a hover {
   padding: 1px;
 }
 
+#press img:hover  {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
 
 
 footer  {
