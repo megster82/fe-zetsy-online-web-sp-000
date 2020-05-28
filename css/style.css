@@ -26,7 +26,7 @@ h1  {
   font-family: 'Baskerville', Serif;
   font-size: 5em;
   font-weight: normal;
-  border-bottom: 1px solid rgb(204);
+  border-bottom: 1px solid #ccc;
 }
 footer  {
   clear: both;
