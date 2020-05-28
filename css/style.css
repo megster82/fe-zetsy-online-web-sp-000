@@ -51,12 +51,17 @@ header a  {
   text-decoration: none;
 }
 
-header a  {
+header a hover {
   color: rgb(152,173,166);
   text-decoration: none;
 }
 
 #featured img  {
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+#featured a  {
   color: rgb(152,173,166);
   text-decoration: none;
 }
