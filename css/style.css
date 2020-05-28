@@ -27,7 +27,7 @@ h1  {
 }
 footer  {
   clear: both;
-  text-align: right;
+  float: right;
 }
 
 /* Write all remaining styles here */
