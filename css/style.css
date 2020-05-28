@@ -28,6 +28,11 @@ h1  {
   font-weight: normal;
   border-bottom: 1px solid #ccc;
 }
+
+h2  {
+  font-size: 2em;
+  color: rgb(153,173,166);
+}
 footer  {
   clear: both;
   float: right;
