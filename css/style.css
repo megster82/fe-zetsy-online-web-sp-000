@@ -73,9 +73,11 @@ header a hover {
 }
 
 #press img  {
-  border: 5px ;
+  border: 5px #ccc solid;
   padding: 1px;
 }
+
+
 
 footer  {
   clear: both;
