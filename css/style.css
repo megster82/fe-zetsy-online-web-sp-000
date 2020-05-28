@@ -42,7 +42,7 @@ padding {
 
 .small  {
   font-size: 0.8em;
-  text-align: right;
+  text-float: right;
 }
 
 /*////////// Section Styles //////////*/
